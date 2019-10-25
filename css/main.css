@@ -114,7 +114,8 @@ h1 {
 }
 
 mark {
-    background: #ff0;
+
+    background: rgb(0, 153, 255);
     color: #000
 }
 
@@ -9040,7 +9041,7 @@ html,
 }
 
 #counter-wrapper .countdown {
-    color: #ffab00
+    color: #ffffff
 }
 
 .modal-open,
